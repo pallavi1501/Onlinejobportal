@@ -1,0 +1,48 @@
+User module
+->home page->User register
+           ->Company Login
+           ->User Login
+           ->About Us     
+
+->User Registration
+->User Login
+
+
+
+    user login                  ->user page->about us
+                                ->Search(Categories medical,software electrical buisiness etc,)
+                                       ->each category will have companies
+                                           ->companies->jobs
+                                              ->jobs->apply
+                                ->Status
+
+
+   Company login->company home page->about us
+                                   ->My jobs
+                                   ->Applications
+                                   ->Request to Add job/delete and notify admin
+
+   admin->users
+        ->applicantions 
+        ->companies
+        ->jobs
+        ->Add job/delete job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
